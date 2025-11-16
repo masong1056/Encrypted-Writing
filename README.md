@@ -7,4 +7,4 @@ The app comes with a **Text Encoder/Decoder**, allowing you to type or paste tex
 
 The Windows version is hopefully coming soon!
 
-([Download (macOS 13.5+)](https://github.com/masong1056/Encrypted-Writing/releases))
+[Download (macOS 13.5+)](https://github.com/masong1056/Encrypted-Writing/releases)
