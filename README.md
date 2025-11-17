@@ -2,6 +2,7 @@
              <img src="README stuff/icon.png" alt="icon" width="256" />
              <h1>Encrypted Writing</h1>
 </div
+  
 [Download](https://github.com/masong1056/Encrypted-Writing/releases)
 
 macOS Requirements: **macOS Ventura 13.5** or newer.
