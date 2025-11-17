@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\encrypted writing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\encrypted writing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\converterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\converterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\converterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\converterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|c:\\users\\mason\\source\\repos\\encrypted writing\\encrypted writing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A6785CFD-4203-92B2-FA1A-F9BD42386E2C}|Encrypted Writing\\Encrypted Writing.csproj|solutionrelative:encrypted writing\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Encrypted Writing",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\Encrypted Writing.csproj",
+              "RelativeDocumentMoniker": "Encrypted Writing\\Encrypted Writing.csproj",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\Encrypted Writing.csproj",
+              "RelativeToolTip": "Encrypted Writing\\Encrypted Writing.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T00:32:13.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConverterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\ConverterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Encrypted Writing\\ConverterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\ConverterWindow.xaml.cs",
+              "RelativeToolTip": "Encrypted Writing\\ConverterWindow.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwKEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:23:48.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConverterWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\ConverterWindow.xaml",
+              "RelativeDocumentMoniker": "Encrypted Writing\\ConverterWindow.xaml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\ConverterWindow.xaml",
+              "RelativeToolTip": "Encrypted Writing\\ConverterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T21:13:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Encrypted Writing\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\App.xaml.cs",
+              "RelativeToolTip": "Encrypted Writing\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:11:59.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\App.xaml",
+              "RelativeDocumentMoniker": "Encrypted Writing\\App.xaml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\App.xaml",
+              "RelativeToolTip": "Encrypted Writing\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T21:11:05.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Encrypted Writing\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\MainWindow.xaml",
+              "RelativeToolTip": "Encrypted Writing\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-16T21:07:12.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Encrypted Writing\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\mason\\source\\repos\\Encrypted Writing\\Encrypted Writing\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Encrypted Writing\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAjwHUAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T21:07:10.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

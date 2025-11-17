@@ -1,0 +1,22 @@
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\bin\Debug\net8.0-windows\Encrypted Writing.exe
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\bin\Debug\net8.0-windows\Encrypted Writing.deps.json
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\bin\Debug\net8.0-windows\Encrypted Writing.runtimeconfig.json
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\bin\Debug\net8.0-windows\Encrypted Writing.dll
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\bin\Debug\net8.0-windows\Encrypted Writing.pdb
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\ConverterWindow.baml
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\ConverterWindow.g.cs
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing_MarkupCompile.cache
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.g.resources
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.AssemblyInfoInputs.cache
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.AssemblyInfo.cs
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.csproj.CoreCompileInputs.cache
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.dll
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\refint\Encrypted Writing.dll
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.pdb
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing.genruntimeconfig.cache
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\ref\Encrypted Writing.dll
+C:\Users\mason\source\repos\Encrypted Writing\Encrypted Writing\obj\Debug\net8.0-windows\Encrypted Writing_Content.g.cs
