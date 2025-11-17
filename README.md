@@ -7,7 +7,7 @@
 
 macOS Requirements: **macOS Ventura 13.5** or newer.
 
-Windows Requirements: **Windows 7 or newer** (i think).
+Windows Requirements: **Modern Versions**.
 
 ----------
 
