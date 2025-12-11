@@ -1,6 +1,7 @@
 <div align="center">
              <img src="README stuff/icon.png" alt="icon" width="256" />
-             <h1>Encrypted Writing</h1>
+             <h1>Encrypted Writing</h1> 
+             <h3>"No one will know what you're speaking about."</h3>
 </div
   
 [Download](https://github.com/masong1056/Encrypted-Writing/releases)
